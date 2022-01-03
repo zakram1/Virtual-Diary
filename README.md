@@ -26,3 +26,5 @@ First, open the `.env` file and edit the `MYSQLDB_USER` and `MYSQLDB_PASS` value
 Then, run `app.py` to boot up the uvicorn server and initialize the database.
 
 Finally, run `diary.py` to start the program.
+
+##### *As of 01/03/2022 this program runs best on `Python 3.9.5`
